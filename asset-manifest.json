@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sudhanshutech/News-Today.git/static/css/main.073c9b0a.css",
+    "main.js": "/sudhanshutech/News-Today.git/static/js/main.9c022a19.js",
+    "static/js/787.4c026eef.chunk.js": "/sudhanshutech/News-Today.git/static/js/787.4c026eef.chunk.js",
+    "index.html": "/sudhanshutech/News-Today.git/index.html",
+    "main.073c9b0a.css.map": "/sudhanshutech/News-Today.git/static/css/main.073c9b0a.css.map",
+    "main.9c022a19.js.map": "/sudhanshutech/News-Today.git/static/js/main.9c022a19.js.map",
+    "787.4c026eef.chunk.js.map": "/sudhanshutech/News-Today.git/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9c022a19.js"
+  ]
+}
