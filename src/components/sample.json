@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Jenny Gross",
+    "title": "Rotterdam to Dismantle Part of Bridge for Jeff Bezos’ Superyacht - The New York Times",
+    "description": "The middle section of the Dutch port’s historic Koningshaven Bridge will be temporarily dismantled so that a boat being built for Jeff Bezos, the founder of Amazon, can traverse the city.",
+    "url": "https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/02/03/multimedia/3xp-bezos/3xp-bezos-facebookJumbo.jpg",
+    "publishedAt": "2022-02-03T18:29:23Z",
+    "content": "The structure is more than a bridge to the people of Rotterdam, said Siebe Thissen, the author of the book The Boy Who Jumped From the Bridge, about a working-class man who jumped from the bridge in … [+1373 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Maya Yang",
+    "title": "Rudy Giuliani’s surprise reveal on Masked Singer led to judges walking off - The Guardian",
+    "description": "Ken Jeong and Robin Thicke walked off the stage when the former New York City mayor revealed his identity",
+    "url": "https://amp.theguardian.com/us-news/2022/feb/03/rudy-giuliani-surprise-masked-singer-judges-walking-off",
+    "urlToImage": null,
+    "publishedAt": "2022-02-03T18:15:00Z",
+    "content": "Rudy GiulianiKen Jeong and Robin Thicke walked off the stage when the former New York City mayor revealed his identity\r\nTwo judges on The Masked Singer television show walked off after the contestant… [+1689 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Lucas Joel",
+    "title": "Dissolving in Toxic Oceans: How an Ancient Extinction Happened - The New York Times",
+    "description": "Scientists say rocks on the English coast contain clues of the processes that drove the end-Triassic event that killed as much as a quarter of all life on Earth.",
+    "url": "https://www.nytimes.com/2022/02/03/science/extinction-triassic-volcano.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/02/03/science/03tb-extinction-promo/03tb-extinction-promo-facebookJumbo.jpg",
+    "publishedAt": "2022-02-03T17:27:48Z",
+    "content": "Bathed in toxic waters with no oxygen to breathe, marine life on top of being dissolved alive was all but doomed.\r\nNoah Planavsky, a biogeochemist at Yale University who was not involved in the resea… [+1317 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Angelica Stabile",
+    "title": "CNN’s Don Lemon defends Whoopi Goldberg in Holocaust comment fallout: ‘We have to be allies’ - Fox News",
+    "description": "CNN anchor Don Lemon comes to 'The View' co-host Whoopi Goldberg's defense after she was suspended for her comments on the Holocaust.",
+    "url": "https://www.foxnews.com/media/cnns-don-lemon-defends-whoopi-goldberg-holocaust-comment-fallout-allies",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/whoopi-goldberg-the-view.png",
+    "publishedAt": "2022-02-03T17:18:36Z",
+    "content": "Whoopi Goldberg is being held accountable for her Holocaust remarks after being suspended from her post at \"The View,\" but CNNs Don Lemon argues she should be shown some mercy as an ally.\r\nThe \"Don L… [+3962 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Steven Nelson, Emily Crane",
+    "title": "Joe Biden arrives in NYC to address surging gun violence with Eric Adams - New York Post ",
+    "description": "President Biden landed at New York’s JFK airport Thursday afternoon ahead of his meeting with Mayor Eric Adams and Gov. Kathy Hochul to discuss the city’s surging gun violence.",
+    "url": "https://nypost.com/2022/02/03/joe-biden-arrives-in-nyc-to-address-surging-gun-violence/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/02/joe-biden-nyc-20.jpg?quality=90&strip=all&w=1024",
+    "publishedAt": "2022-02-03T17:06:00Z",
+    "content": "President Biden insisted the answer to surging gun violence was not to defund the police or abandon our streets as he met with Mayor Eric Adams and Gov. Kathy Hochul at the NYPDs Manhattan headquarte… [+5114 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Ellen Nakashima, Shane Harris, Ashley Parker, John Hudson",
+    "title": "U.S. alleges Russian plot to stage attack as pretext for Ukraine invasion - The Washington Post",
+    "description": "U.S. officials say they have evidence that Russia has developed a plan, approved at high levels in Moscow, to create a pretext for invading Ukraine by falsely pinning an attack on Ukrainian forces that could involve alleged casualties not only in eastern Ukra…",
+    "url": "https://www.washingtonpost.com/national-security/2022/02/03/russia-ukraine-staged-attack/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4CQ67UEC4I6ZFI4DYGMG4R6KM.jpg&w=1440",
+    "publishedAt": "2022-02-03T17:03:45Z",
+    "content": "The alleged operation the United States plans to expose would involve broadcasting images of civilian casualties in eastern Ukraine and potentially over the border in Russia to a wide audience to dru… [+2488 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ESPN"
+    },
+    "author": "Brooke Pryor",
+    "title": "Enhanced Rooney Rule helping with minority GM hiring, although HC progress lacking, Pittsburgh Steelers' Art Rooney II says - ESPN",
+    "description": "Although he acknowledges that the Rooney Rule hasn't helped to get minority head coaches hired so far this offseason, Steelers president Art Rooney II said the enhancements to the rule have helped to get more minority general managers hired.",
+    "url": "https://www.espn.com/nfl/story/_/id/33208284/enhanced-rooney-rule-helping-minority-gm-hiring-hc-progress-lacking-pittsburgh-steelers-art-rooney-ii-says",
+    "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0203%2Fr969502_1296x1296_1%2D1.jpg",
+    "publishedAt": "2022-02-03T16:52:16Z",
+    "content": "PITTSBURGH -- Days after former Dolphins head coach Brian Flores filed a potential class-action lawsuit against the NFL and three teams this week alleging discrimination in his interviews and his fir… [+3893 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Karen Langley",
+    "title": "Disappointing Meta, PayPal Earnings Send Shudders Through Stock Market - The Wall Street Journal",
+    "description": "Tech stocks have been ‘priced way beyond perfection’ and now face scrutiny as interest rates are poised to rise",
+    "url": "https://www.wsj.com/articles/disappointing-meta-paypal-earnings-send-shudders-through-stock-market-11643906563",
+    "urlToImage": "https://images.wsj.net/im-479477/social",
+    "publishedAt": "2022-02-03T16:42:00Z",
+    "content": "The technology stock rally that led the markets dizzying rally from the depths of the pandemic is coming under pressure.\r\nShares of Meta Platforms Inc. (formerly known as Facebook Inc.), PayPal Holdi… [+174 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "Aamer Madhani, Lorne Cook",
+    "title": "Turkish president offers to host Ukraine-Russia peace talks - Associated Press",
+    "description": "WASHINGTON (AP) — The U.S. has obtained intelligence indicating that the Russian government developed a plan to stage a false attack that would depict the Ukrainian military or its intelligence forces assaulting Russian territory to help establish a pretext f…",
+    "url": "https://apnews.com/article/russia-ukraine-business-europe-belarus-jens-stoltenberg-43c9151532de706a2edec5684dfcf07d",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/b3132b084bb849e9ba72805b4eb60d73/3000.jpeg",
+    "publishedAt": "2022-02-03T16:41:15Z",
+    "content": "WASHINGTON (AP) The U.S. has obtained intelligence indicating that the Russian government developed a plan to stage a false attack that would depict the Ukrainian military or its intelligence forces … [+7120 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Phillip Tracy",
+    "title": "Microsoft's Mixed-Reality Dreams Are Fading - Gizmodo",
+    "description": "HoloLens 3 plans were scrapped and employees are leaving to join Meta.",
+    "url": "https://gizmodo.com/microsoft-may-scrap-hololens-3-as-metaverse-hype-hits-f-1848474256",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f58624101185c9f1cfbfbc506433d8b5.jpg",
+    "publishedAt": "2022-02-03T16:40:00Z",
+    "content": "One of the most outspoken proponents of the metaverse is struggling to find its place in this hypothetical virtual world. Microsoft has reportedly scrapped plans to make a HoloLens 3what would have b… [+4026 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Nadine El-Bawab",
+    "title": "1 dead, 4 injured in shooting on Greyhound bus - ABC News",
+    "description": "",
+    "url": "https://abcnews.go.com/US/dead-injured-shooting-greyhound-bus/story?id=82647145",
+    "urlToImage": "https://s.abcnews.com/images/US/bus-shooting-2-ht-ps-220203_1643905381414_hpMain_16x9_992.jpg",
+    "publishedAt": "2022-02-03T16:39:04Z",
+    "content": "A shooting inside a Greyhound bus Wednesday night killed one person and injured four others, according to police.\r\nThe bus was parked outside an Oroville, California, AM/PM convenience store. Four vi… [+756 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "'Horrible terrorist leader is no more': Biden on US-led Syria raid - CNN",
+    "description": "President Joe Biden announced a counterterrorism mission in northwest Syria had taken \"a major terrorist leader off the battlefield,\" saying the US had chose...",
+    "url": "https://www.youtube.com/watch?v=UkYgIJV4k-o",
+    "urlToImage": "https://i.ytimg.com/vi/UkYgIJV4k-o/maxresdefault.jpg",
+    "publishedAt": "2022-02-03T16:33:23Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Tim De Chant",
+    "title": "Facebook loses users for first time ever, market cap drops by $200 billion - Ars Technica",
+    "description": "Meta's earnings call revealed bad news buried within bad news.",
+    "url": "https://arstechnica.com/tech-policy/2022/02/facebook-loses-users-for-first-time-ever-market-cap-drops-by-200b/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/GettyImages-1349800861-760x380.jpg",
+    "publishedAt": "2022-02-03T16:28:37Z",
+    "content": "Enlarge/ A worker picks up trash in front of the new logo in front of Meta's headquarters on October 28, 2021, in Menlo Park, Calif.\r\n155 with 97 posters participating\r\nIf last year was bad for Meta,… [+3570 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Ivan Nechepurenko, Shashank Bengali",
+    "title": "Russia-Ukraine News: Live Updates - The New York Times",
+    "description": "The Kremlin accused the United States of “igniting tensions,” even as Moscow continued to amass forces around Ukraine. Before a visit to Beijing, President Vladimir V. Putin pledged to deepen Russia’s ties with China.",
+    "url": "https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news",
+    "urlToImage": "https://static01.nyt.com/images/2022/02/03/world/03ukraine-briefing-header-promo/03ukraine-briefing-header-promo-facebookJumbo.jpg",
+    "publishedAt": "2022-02-03T16:09:21Z",
+    "content": "Video\r\nBack\r\nThe Pentagon said 3,000 additional American troops would aid in the defense of NATO allies in Eastern Europe, as Russias amassment of forces at Ukraines border threatens the regions stab… [+3532 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Matias Grez, CNN",
+    "title": "Honduras players forced off due to 'extreme climate conditions' in World Cup qualifier against US - CNN",
+    "description": "Two players for the Honduras national team were forced off at halftime in Wednesday's 3-0 World Cup qualifying defeat to the US due to \"extreme climate conditions,\" the federation said.",
+    "url": "https://www.cnn.com/2022/02/03/football/honduras-players-forced-off-world-cup-qualifier-usmnt-spt-intl/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220203144715-honduras-usa-super-tease.jpg",
+    "publishedAt": "2022-02-03T15:36:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WPVI-TV"
+    },
+    "author": "By Mark Gillispie, Associated Press",
+    "title": "Family files lawsuit against fertility doctor, hospital after DNA test reveals 1991 sperm sample mix-up - WPVI-TV",
+    "description": "An Ohio family has sued a physician and a hospital system saying the wrong sperm was used during a fertilization procedure in 1991.",
+    "url": "https://6abc.com/ivf-wrong-sperm-lawsuit-fertility-dr-nicholas-spirtos/11535181/",
+    "urlToImage": "https://cdn.abcotvs.com/dip/images/11535202_020322-cc-dna-botched-fertitily-clinic-img.jpg?w=1600",
+    "publishedAt": "2022-02-03T15:12:49Z",
+    "content": "CLEVELAND -- Jessica Harvey Galloway asked her parents for a DNA genealogical test for Christmas in 2020 hoping to finding distant relatives during a planned trip to Italy with her husband.The test l… [+2812 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Oil prices take a breather, OPEC+ sticks to output plans - Reuters",
+    "description": "Oil prices fell on Thursday amid profit-taking, but remained underpinned by tight supply as OPEC+ producers stuck to planned moderate output increases.",
+    "url": "https://www.reuters.com/business/energy/oil-prices-take-breather-opec-sticks-output-plans-2022-02-03/",
+    "urlToImage": "https://www.reuters.com/resizer/-Nc_G_JOFeV6CWl5eZZMJIVAqD8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZDOPPV4NERNKZF6BEVQAOMNQYM.jpg",
+    "publishedAt": "2022-02-03T15:07:00Z",
+    "content": "LONDON, Feb 3 (Reuters) - Oil prices fell on Thursday amid profit-taking, but remained underpinned by tight supply as OPEC+ producers stuck to planned moderate output increases.\r\nBrent crude was down… [+2276 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "Kate Aurthur",
+    "title": "‘And Just Like That’ Finale: Michael Patrick King, Sarah Jessica Parker Break Down Carrie’s Return to a Familiar Place - Variety",
+    "description": "SPOILER ALERT: This piece contains spoilers for the Season 1 finale of “And Just Like That,” which premiered Feb. 3 on HBO Max. Reader, if you’re seeing these words, we must congratulate ourselves — we’ve made it through the “And Just Like That” wars alive. T…",
+    "url": "https://variety.com/2022/tv/news/and-just-like-that-finale-spoilers-michael-patrick-king-sarah-jessica-parker-1235170531/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2022/02/Carrie-finale.MAIN_.1.jpeg?w=1000",
+    "publishedAt": "2022-02-03T15:01:35Z",
+    "content": "SPOILER ALERT: This piece contains spoilers for the Season 1 finale of “And Just Like That,” which premiered Feb. 3 on HBO Max.\r\nReader, if you’re seeing these words, we must congratulate ourselves —… [+18297 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NBCSports.com"
+    },
+    "author": "Mike Florio",
+    "title": "The Titans emerge as a potential Aaron Rodgers suitor - NBC Sports",
+    "description": "As Aaron Rodgers figures out where his career will unfold in 2022, a new potential suitor has entered the picture.On Tuesday, Jared Stillman of 102.5 The Game in Nashville reported that the Packers quarterback has purchased land and is in the process of build…",
+    "url": "https://profootballtalk.nbcsports.com/2022/02/03/the-titans-emerge-as-a-potential-aaron-rodgers-suitor/",
+    "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/02/GettyImages-1016912564-e1643899593855.jpg",
+    "publishedAt": "2022-02-03T14:48:00Z",
+    "content": "As Aaron Rodgers figures out where his career will unfold in 2022, a new potential suitor has entered the picture.\r\nOn Tuesday, Jared Stillman of 102.5 The Game in Nashville reported that the Packers… [+1396 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "https://www.engadget.com/about/editors/steve-dent",
+    "title": "Canon EOS R3 review: Innovative eye-control focus and speed, for a price - Engadget",
+    "description": "Canon's EOS R3 delivers incredible shooting speeds and reliable autofocus, but lacks resolution compared to rival cameras..",
+    "url": "https://www.engadget.com/canon-eos-r3-camera-reivew-143057327.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/104ccaf0-84e8-11ec-bfbf-511bb2dfe8ea",
+    "publishedAt": "2022-02-03T14:33:44Z",
+    "content": "After Sony released the A7 III way back in 2018, I wondered if Canon and Nikon could ever catch up to its autofocus and other technology. With the launch of the 24-megapixel EOS R3, however, its Cano… [+8273 chars]"
+    }
+    ]
+    }
